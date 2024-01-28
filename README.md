@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-28&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-28" /> </p>
 
-- 🔭 I’m currently working on **a research project on cybersecurity, ML and XAI**
+- 🔭 I’m currently working with **Blackcoffer**
 
-- 🌱 I’m currently learning **Explainable AI (LIME and SHAP)**
+- 🌱 I’m currently learning **Backend Technologies (Django/Flask)**
 
 - 💬 Ask me about **Machine Learning**
 
