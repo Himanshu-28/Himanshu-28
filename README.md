@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Himanshu</h1>
-<h3 align="center">An aspiring ML Engineer from 📍Pune, India</h3>
+<h3 align="center">A SDE from 📍Bengaluru, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-28&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-28" /> </p>
 
-- 🔭 I’m currently working with **Blackcoffer**
+- 🔭 I’m currently working with **FinTech Company**
 
-- 🌱 I’m currently learning **Backend Technologies (Django/Flask)**
+- 🌱 I’m currently learning **Data Engineering Workflows**
 
-- 💬 Ask me about **Machine Learning**
+- 💬 Ask me about **Java/Apache Kafka**
 
 - 📫 How to reach me **himnshar@gmail.com**
 
