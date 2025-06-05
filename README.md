@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-28&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-28" /> </p>
 
-- 🔭 I’m currently working with **FinTech Company**
+- 🔭 I’m currently working with a **FinTech Company**
 
 - 🌱 I’m currently learning **Data Engineering Workflows**
 
